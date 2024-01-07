@@ -40,8 +40,8 @@ This showcase is a result of following an amazing tutorial by Sheryians Coding S
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/PtirthP/Website-Animations.git
+    cd Website-Animations
     ```
 
 2. Open `index.html` in your browser and witness the magic!
