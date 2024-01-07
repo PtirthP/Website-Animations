@@ -10,7 +10,7 @@
 
 Welcome to the captivating world of SheryJS Animation Showcase! 🚀 Embark on a journey of creativity, guided by the magic of Sheryians Coding School. Dive into the enchanting realm of smooth scrolling, dynamic text animations, and mesmerizing image effects.
 
-👉 **[Live Demo](your_project_live_demo_url)**
+👉 **[Live Demo](https://tirthpatel.space/)**
 
 ---
 
